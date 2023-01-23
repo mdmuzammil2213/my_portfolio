@@ -1,0 +1,106 @@
+.counter{
+    width: 300px;
+    margin-left: 40%;
+    border: 2px solid rgb(247, 45, 0);
+    box-shadow: 5px 5px 20px red;
+}
+.nav{
+    margin-bottom: 10px;
+    background-color: rgb(174, 255, 0);
+    padding: 10px;
+    text-decoration: none;
+ 
+}
+.main{
+    width: 350px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 30px;
+    box-shadow: 10px 10px 10px red;
+    border: double greenyellow;
+}
+.card{
+    margin-left: 15px;
+    margin-top: 10px;
+    border:5px double rgb(26, 205, 32);
+    
+}
+.font{
+    font-size:25px;
+}
+.logm{
+    width: 500px;
+    height: 550px;
+    margin-left: 35%;
+    border: double;
+    background-color:white;
+    color:red;
+    border-bottom-left-radius: 100px;
+}
+.but{
+    border-radius: 80px;
+}
+.srch{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 20px;
+    padding-left: 10px;
+    border: 1px solid;
+    text-decoration: none;
+}
+.set{
+    margin-left: 20px;
+    
+    
+}
+.chatitem{
+    border:5px solid darkgreen;
+    margin: 10px;
+    padding: 10px;
+}
+.chattext{
+    width: 100%;
+    background-color: white;
+    margin-top: 10px !important;
+}
+BUtton{
+    border-radius: 40px !important;
+}
+
+.map{
+
+    margin-left: 5px;
+    margin-top: -20px;
+}
+
+.user{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.text{
+    margin: 0px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px rgb(255, 80, 115); 
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    
+    
+}
+
+.back{
+    background: linear-gradient(25deg,#8600b3 50%, #cc33ff 50%);
+}
+
+.center{
+    margin: 0px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center; 
+    text-align: center;
+    
+}
+
+
