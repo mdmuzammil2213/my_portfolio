@@ -58,12 +58,12 @@ export const ProjectApi = () => {
           />
         </Grid>
         <Grid item xs={2}>
-          <Button variant="contained" onClick={handelSearch}>
+          <Button variant="contained" color="success" onClick={handelSearch}>
             Search
           </Button>
         </Grid>
         <Grid item xs={2}>
-          <Button variant="contained" onClick={handelClear}>
+          <Button variant="contained" color="error" onClick={handelClear}>
             Cleare All
           </Button>
         </Grid>
